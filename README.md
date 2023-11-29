@@ -10,4 +10,3 @@
 
  - 🤝 Colaborando en comunidades de código abierto
 
-¡Pónganse en contacto conmigo y hagamos grandes cosas! ✨
