@@ -4,9 +4,11 @@
 
 **Destrezas:**
 
- - 💡 Aprendiendo y mejorando
+ - 💡 Aprendiendo y mejorando mis bases en JS y PHP
 
- - 🚧 Trabajando en proyectos interesantes
+ - 🚧 Trabajando en pequeños proyectos para desarrollarme
 
- - 🤝 Colaborando en comunidades de código abierto
+ - 🤝 Intentado empezar en comunidades para aprender de gente con más conocimiento
+
+Actualmente soy un novato, si encontrais alguna cosita que mejorar en mis proyectos... ¡No dudeis en comentarlo!, siempre estoy dispuesto a mejorar y aprender 😉
 
