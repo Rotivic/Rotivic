@@ -10,5 +10,5 @@
 
  - 🤝 Intentado empezar en comunidades para aprender de gente con más conocimiento
 
-Actualmente soy un novato, si encontrais alguna cosita que mejorar en mis proyectos... ¡No dudeis en comentarlo!, siempre estoy dispuesto a mejorar y aprender 😉
+Actualmente soy un novato. Si encontráis alguna cosita que mejorar en mis proyectos... ¡No dudéis en comentarlo! Siempre estoy dispuesto a mejorar y aprender 😉
 
