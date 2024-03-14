@@ -1,6 +1,6 @@
 ### ¡Hola a todos! 👋
 
-¡Bienvenidos a mi repostiorio! 🚀 Soy Víctor, un entusiasta del código en constante aprendizaje. 💻 Aquí podéis encontrar mis proyectos en el mundo del desarrollo, explorando nuevas tecnologías y desafiándome a seguir aprendiendo cada día. 🌱 Aunque aún soy un novato...¡Así que esperemos que la cosa mejore! 🌟
+¡Bienvenidos a mi repositorio! 🚀 Soy Víctor, un entusiasta del código en constante aprendizaje. 💻 Aquí podéis encontrar mis proyectos en el mundo del desarrollo, explorando nuevas tecnologías y desafiándome a seguir aprendiendo cada día. 🌱 Aunque aún soy un novato...¡Así que esperemos que la cosa mejore! 🌟
 
 **¿Qué estoy haciendo?**
 
